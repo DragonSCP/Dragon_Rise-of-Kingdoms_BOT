@@ -1,0 +1,17 @@
+game:
+  launcher_path: C:\Program Files (x86)\Rise of Kingdoms\launcher.exe
+  window_title_contains: Rise of Kingdoms
+  working_dir: C:\Program Files (x86)\Rise of Kingdoms
+human_behavior:
+  click_variance: 10
+  error_chance: 0.05
+  max_delay: 2.5
+  min_delay: 0.8
+paths:
+  logs: logs/bot.log
+  model: models/rok_2025_yolov8.pt
+tasks:
+  collect_resources: true
+  farm_barbarians: true
+  train_troops: true
+  upgrade_buildings: true

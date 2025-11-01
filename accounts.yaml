@@ -1,0 +1,4 @@
+accounts:
+- email: exemplo@gmail.com
+  kingdom: 1234
+  password: senha
